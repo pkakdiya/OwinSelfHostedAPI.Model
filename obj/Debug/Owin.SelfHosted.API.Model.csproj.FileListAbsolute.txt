@@ -1,0 +1,5 @@
+C:\Priyank\MyWork\Learning\Owin.SelfHosted.API.Model\bin\Debug\Owin.SelfHosted.API.Model.dll
+C:\Priyank\MyWork\Learning\Owin.SelfHosted.API.Model\bin\Debug\Owin.SelfHosted.API.Model.pdb
+C:\Priyank\MyWork\Learning\Owin.SelfHosted.API.Model\obj\Debug\Owin.SelfHosted.API.Model.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\Learning\Owin.SelfHosted.API.Model\obj\Debug\Owin.SelfHosted.API.Model.dll
+C:\Priyank\MyWork\Learning\Owin.SelfHosted.API.Model\obj\Debug\Owin.SelfHosted.API.Model.pdb
